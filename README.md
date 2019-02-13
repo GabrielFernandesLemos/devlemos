@@ -24,8 +24,8 @@
 
 → Horários de tema livre no grupo
 
-• Segunda à Quinta das 21:00h até às 00:00h
-• De Sexta a partir das 21:00h até Domingo às 00:00h
+• Segunda à Quinta das 20:00h até às 00:00h
+• De Sexta a partir das 20:00h até Domingo às 00:00h
 
 Neste periodo ficam proibidos somente
 
