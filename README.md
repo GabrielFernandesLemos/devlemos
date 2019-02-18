@@ -6,7 +6,7 @@
 • Proibido Brigas 
 • Proibido Preconceito 
 • Proibido Falar sobre religião 
-• Proibido Divulgação sem permissão 
+• Proibido Divulgação sem permissão (Grupos)
 • Proibido Falar sobre política.
 • Proibido Outros assuntos em horário padrão
 
@@ -32,7 +32,7 @@ Neste periodo ficam proibidos somente
 - Pornografia
 - Brigas
 - Racismo e demais formas de discriminação (preconceito)
-- Divulgação sem permissão 
+- Divulgação sem permissão (Grupos)
 
 EM CASO DE DESCUMPRIMENTO DA REGRAS INFRATOR SERÁ BANIDO ATÉ QUE JUSTIFIQUE O ATO A ALGUM DE NOSSOS ADMINISTRADORES.
 
